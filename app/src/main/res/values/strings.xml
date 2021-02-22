@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">BeonMax</string>
+    <string name="bt_color">Выбрать цвет</string>
+
+    <string-array name="spinner_color">
+        <item>Красный</item>
+        <item>Синий</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+    </string-array>
+
+    <string-array name="spinner_info_of_color">
+        <item>Красный цвет</item>
+        <item>Синий цвет</item>
+        <item>Желтый цвет</item>
+        <item>Зеленый цвет</item>
+    </string-array>
 </resources>
